@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.gad361_2022.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "L:\\temp\\GAD361_WithMinis\\GAD361_2022\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "GAD361_2022 [Testing]"
+        }
+      }
+    }
+  ]
+}
